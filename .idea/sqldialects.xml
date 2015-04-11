@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/ConnectJDBC.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/DBServletPost.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/Main.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/PostServlet.java" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/src/mypackage/Registration.java" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/queries.sql" dialect="MySQL" />
+  </component>
+</project>
